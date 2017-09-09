@@ -12,6 +12,7 @@
 		284D23581F63D68F007EB1FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 284D23561F63D68F007EB1FC /* Main.storyboard */; };
 		284D235A1F63D68F007EB1FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 284D23591F63D68F007EB1FC /* Assets.xcassets */; };
 		284D235D1F63D68F007EB1FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 284D235B1F63D68F007EB1FC /* LaunchScreen.storyboard */; };
+		284D23651F63D736007EB1FC /* ales-krivec-192941.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 284D23641F63D736007EB1FC /* ales-krivec-192941.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		284D23591F63D68F007EB1FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		284D235C1F63D68F007EB1FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		284D235E1F63D68F007EB1FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		284D23641F63D736007EB1FC /* ales-krivec-192941.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ales-krivec-192941.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		284D23511F63D68F007EB1FC /* EasyAuthen */ = {
 			isa = PBXGroup;
 			children = (
+				284D23641F63D736007EB1FC /* ales-krivec-192941.jpg */,
 				284D23521F63D68F007EB1FC /* AppDelegate.swift */,
 				284D23541F63D68F007EB1FC /* ViewController.swift */,
 				284D23561F63D68F007EB1FC /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				284D235D1F63D68F007EB1FC /* LaunchScreen.storyboard in Resources */,
 				284D235A1F63D68F007EB1FC /* Assets.xcassets in Resources */,
+				284D23651F63D736007EB1FC /* ales-krivec-192941.jpg in Resources */,
 				284D23581F63D68F007EB1FC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
